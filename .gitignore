@@ -9,3 +9,6 @@ override.tf.json
 *_override.tf.json
 .terraformrc
 terraform.rc
+
+# Node.js dependencies
+node_modules/
